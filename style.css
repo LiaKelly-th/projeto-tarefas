@@ -1,0 +1,39 @@
+body{
+    font-family: arial, sans-serif;
+    background-color: #f01d5c;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 43px;
+    color: white;
+}
+
+input{
+    border-radius: 7px;
+    padding: 10px 50px;
+    font-size: 16px;
+}
+
+button{
+    border-radius: 7px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+li{
+    background-color: white;
+    margin: 5px auto;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+}
